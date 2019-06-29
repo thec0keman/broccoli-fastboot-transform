@@ -1,0 +1,25 @@
+{
+  "name": "ember-cli-fastboot-transform",
+  "version": "0.0.1",
+  "description": "An ember-cli transform for fastboot imports",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thec0keman/ember-cli-fastboot-transform.git"
+  },
+  "author": "John Ratcliff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thec0keman/ember-cli-fastboot-transform/issues"
+  },
+  "homepage": "https://github.com/thec0keman/ember-cli-fastboot-transform#readme",
+  "scripts": {
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "broccoli-stew": "*"
+  },
+  "keywords": [
+    "ember-addon"
+  ]
+}
